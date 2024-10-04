@@ -67,7 +67,8 @@
 This project is critical for driving strategic decisions in key business areas. It helps optimize retailer partnerships, identify high-potential regions for growth, and improve product offerings based on performance data. By analyzing total sales, profit, and operating margins, the business can enhance its operational efficiency and tailor marketing strategies. Additionally, insights into sales methods (online vs. outlet) allow for more focused improvements. Overall, the project enables data-driven decisions, ensuring sustainable growth and profitability across regions and channels.
 
 
-### Power Bi Link
+### Power Bi Link  
+  http://www.adidas-power-bi-dashboard.com/
 <iframe title="ADIDAS DASHBOARD" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZThjOWQ4M2QtMzllZi00MGYwLThjOWYtODA0MDEzZGFkOWU2IiwidCI6IjYxYzQwZjNhLWFkMDYtNDY5Ny04NGE5LWZmMGU1YjM0ZjNhMSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 
