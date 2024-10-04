@@ -67,9 +67,19 @@
 This project is critical for driving strategic decisions in key business areas. It helps optimize retailer partnerships, identify high-potential regions for growth, and improve product offerings based on performance data. By analyzing total sales, profit, and operating margins, the business can enhance its operational efficiency and tailor marketing strategies. Additionally, insights into sales methods (online vs. outlet) allow for more focused improvements. Overall, the project enables data-driven decisions, ensuring sustainable growth and profitability across regions and channels.
 
 
-### Power Bi Link  
-  http://www.adidas-power-bi-dashboard.com/
+### Power Bi Link 
 <iframe title="ADIDAS DASHBOARD" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZThjOWQ4M2QtMzllZi00MGYwLThjOWYtODA0MDEzZGFkOWU2IiwidCI6IjYxYzQwZjNhLWFkMDYtNDY5Ny04NGE5LWZmMGU1YjM0ZjNhMSJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+## Recommendations
+  1.  **Leverage High-Performing Retailers**: Focus on retailers with strong total sales and operating profit, such as West Gear and Foot Locker. Strengthening relationships with these retailers can further boost revenue and profitability.
+  2.  **Support Low-Performing Retailers:** Retailers like Amazon, Walmart, and Kohl’s are underperforming. Consider offering them special deals, discounts, or exclusive product ranges to improve their performance and customer reach.
+  3.  **Region-Specific Marketing:** The dataset highlights differences in performance across regions and cities. Target marketing efforts in high-performing regions to maintain growth while identifying opportunities in underperforming areas like the Midwest and South.
+  4. **Sales Method Strategy:** Given the variation in success by sales method, consider expanding the most effective methods in different regions. For instance, focus on enhancing online sales in regions where it performs well and analyze if outlets could benefit from more investment.
+  5.  **Optimize Product Portfolio:** Prioritize products that are popular in key regions and adjust the product offering in areas where sales are lagging. Understanding customer preferences across different regions can help refine inventory and marketing strategies.
+
+
+
+
 
 
 
